@@ -83,7 +83,7 @@
     },
     "imagePublisher": {
       "type": "string",
-      "defaultValue": "MicrosoftSQLServer"
+      "defaultValue": "MicrosoftCorporation"
     },
     "imageOffer": {
       "allowedValues": [
