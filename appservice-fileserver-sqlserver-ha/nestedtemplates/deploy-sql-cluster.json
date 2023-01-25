@@ -81,10 +81,6 @@
         "description": "Number of data disks on each S2D VM (Min=2, Max=32). Ensure that the VM size you've selected will support this number of data disks."
       }
     },
-    "imagePublisher": {
-      "type": "string",
-      "defaultValue": "MicrosoftCorporation"
-    },
     "imageOffer": {
       "allowedValues": [
         "sql2019-ws2019"
